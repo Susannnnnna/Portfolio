@@ -34,12 +34,16 @@ const quotes = [
     "If you cannot fly, run. If you cannot run, walk. If you cannot walk, crawl. Whatever you do, keep moving forward",
     "Success is the sum of small efforts repeated day after day",
     "Don't wait. The time will never be perfect",
+    "Be yourself, everyone else is already taken",
+    "The best way to predict the future is to create it",
+    "If the brain will so simple that we could understand it, we would be so simple that we could not do it",
+    "The essence of instinct is that it operates independently of reason"
 ];
 
 function randomQuote() {
 
     quotesLength = quotes.length;
-    randomQuoteIndex = Math.floor(Math.random() * quotesLength);
+    randomQuoteIndex = Math.floor((Math.random() * quotesLength)+1);
     randomQuoteText = quotes[randomQuoteIndex];
    
     document.getElementById("quote").innerHTML = randomQuoteText;
