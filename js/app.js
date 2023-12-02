@@ -37,7 +37,11 @@ const quotes = [
     "Be yourself, everyone else is already taken",
     "The best way to predict the future is to create it",
     "If the brain will so simple that we could understand it, we would be so simple that we could not do it",
-    "The essence of instinct is that it operates independently of reason"
+    "The essence of instinct is that it operates independently of reason",
+    "Dreaming is a form of planning",
+    "Simplicity may be more difficult than complexity: you have to work hard to extract the clear thought that allows for simplicity. But it is worth it because once you have it, you can move mountains",
+    "Any job can be done if you divide it into small sections",
+    "Small opportunities are often the beginning of great ventures"
 ];
 
 function randomQuote() {
