@@ -42,7 +42,8 @@ const quotes = [
     "Simplicity may be more difficult than complexity: you have to work hard to extract the clear thought that allows for simplicity. But it is worth it because once you have it, you can move mountains",
     "Any job can be done if you divide it into small sections",
     "Small opportunities are often the beginning of great ventures",
-    "When a person cannot find a deep sense of meaning, they distract themselves with pleasure"
+    "When a person cannot find a deep sense of meaning, they distract themselves with pleasure",
+    "Change happens when the pain of staying the same is greater than the pain of change"
 ];
 
 function randomQuote() {
