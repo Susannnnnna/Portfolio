@@ -43,7 +43,8 @@ const quotes = [
     "Any job can be done if you divide it into small sections",
     "Small opportunities are often the beginning of great ventures",
     "When a person cannot find a deep sense of meaning, they distract themselves with pleasure",
-    "Change happens when the pain of staying the same is greater than the pain of change"
+    "Change happens when the pain of staying the same is greater than the pain of change",
+    "Dear math, please grow up and solve your own problems by yourself :)"
 ];
 
 function randomQuote() {
