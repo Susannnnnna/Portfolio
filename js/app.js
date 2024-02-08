@@ -44,7 +44,14 @@ const quotes = [
     "Small opportunities are often the beginning of great ventures",
     "When a person cannot find a deep sense of meaning, they distract themselves with pleasure",
     "Change happens when the pain of staying the same is greater than the pain of change",
-    "Dear math, please grow up and solve your own problems by yourself :)"
+    "Dear math, please grow up and solve your own problems by yourself :)",
+    "Science is food for the mind",
+    "Make lots of mistakes and learn from them",
+    "Don't expect better results if you keep doing the same thing. Maintain your childlike curiosity",
+    "Success can be learned",
+    "Science is magic that really works",
+    "You should spend a little more time working on yourself and a little less time trying to impress others",
+    "The beautiful thing about learning is that nobody can take it away from you"
 ];
 
 function randomQuote() {
