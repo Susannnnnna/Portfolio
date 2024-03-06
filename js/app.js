@@ -52,7 +52,8 @@ const quotes = [
     "Science is magic that really works",
     "You should spend a little more time working on yourself and a little less time trying to impress others",
     "The beautiful thing about learning is that nobody can take it away from you",
-    "Do NOT buy things you do not need with money you do not have"
+    "Do NOT buy things you do not need with money you do not have",
+    "Water is the only drink for wise people"
 ];
 
 function randomQuote() {
