@@ -53,7 +53,8 @@ const quotes = [
     "You should spend a little more time working on yourself and a little less time trying to impress others",
     "The beautiful thing about learning is that nobody can take it away from you",
     "Do NOT buy things you do not need with money you do not have",
-    "Water is the only drink for wise people"
+    "Water is the only drink for wise people",
+    "Most shadows in our lives are created when we block our own sun"
 ];
 
 function randomQuote() {
