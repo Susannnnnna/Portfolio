@@ -54,7 +54,8 @@ const quotes = [
     "The beautiful thing about learning is that nobody can take it away from you",
     "Do NOT buy things you do not need with money you do not have",
     "Water is the only drink for wise people",
-    "Most shadows in our lives are created when we block our own sun"
+    "Most shadows in our lives are created when we block our own sun",
+    "Everything should be constructed as simply as possible, but not simplistic"
 ];
 
 function randomQuote() {
