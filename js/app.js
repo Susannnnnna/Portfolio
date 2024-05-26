@@ -56,7 +56,8 @@ const quotes = [
     "Water is the only drink for wise people",
     "Most shadows in our lives are created when we block our own sun",
     "Everything should be constructed as simply as possible, but not simplistic",
-    "Good luck is not a coincidence"
+    "Good luck is not a coincidence",
+    "Fake it until you make it"
 ];
 
 function randomQuote() {
