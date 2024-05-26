@@ -57,7 +57,8 @@ const quotes = [
     "Most shadows in our lives are created when we block our own sun",
     "Everything should be constructed as simply as possible, but not simplistic",
     "Good luck is not a coincidence",
-    "Fake it until you make it"
+    "Fake it until you make it",
+    "When you know that delusion is way of manifestation"
 ];
 
 function randomQuote() {
