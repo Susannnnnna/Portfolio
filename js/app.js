@@ -58,7 +58,8 @@ const quotes = [
     "Everything should be constructed as simply as possible, but not simplistic",
     "Good luck is not a coincidence",
     "Fake it until you make it",
-    "When you know that delusion is way of manifestation"
+    "When you know that delusion is way of manifestation",
+    "If someone is hotter than you than you are cooler then them. - Thermodynamics"
 ];
 
 function randomQuote() {
