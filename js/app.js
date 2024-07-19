@@ -61,7 +61,8 @@ const quotes = [
     "When you know that delusion is a way of manifestation",
     "If someone is hotter than you then you are cooler than them. - Thermodynamics",
     "Once you see the road, you will see it everywhere",
-    "The best thing you have ever done is that you never stopped"
+    "The best thing you have ever done is that you never stopped",
+    "If we don't have a lifelong financial plan, we have an unplanned recipe for poverty"
 ];
 
 function randomQuote() {
