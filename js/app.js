@@ -65,6 +65,7 @@ const quotes = [
     "If we don't have a lifelong financial plan, we have an unplanned recipe for poverty",
     "Do you believe it, can you receive it?",
     "Why do you always find what you are looking for at the very end? Because once you find it, you stop looking"
+    "The idea is a piece of cake. Everything depends on their execution"
 ];
 
 function randomQuote() {
