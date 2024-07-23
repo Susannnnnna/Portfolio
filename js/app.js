@@ -63,7 +63,8 @@ const quotes = [
     "Once you see the road, you will see it everywhere",
     "The best thing you have ever done is that you never stopped",
     "If we don't have a lifelong financial plan, we have an unplanned recipe for poverty",
-    "Do you believe it, can you receive it?"
+    "Do you believe it, can you receive it?",
+    "Why do you always find what you are looking for at the very end? Because once you find it, you stop looking"
 ];
 
 function randomQuote() {
