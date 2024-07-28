@@ -68,6 +68,7 @@ const quotes = [
     "The idea is a piece of cake. Everything depends on their execution",
     "A system that rewards 'valuable failures'",
     "Our choices reflect who we really are, much more than our capabilities"
+    "Not angry, just hungry"
 ];
 
 function randomQuote() {
