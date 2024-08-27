@@ -70,7 +70,8 @@ const quotes = [
     "Our choices reflect who we really are, much more than our capabilities",
     "Not angry, just hungry",
     "You have to understand reality, even if you don't like it. Especially if you don't like her",
-    "I am capacious, I contain millions"
+    "I am capacious, I contain millions",
+    "Shame ends where humman is ready to meet humman in truth..."
 ];
 
 function randomQuote() {
