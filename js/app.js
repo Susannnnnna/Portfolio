@@ -71,7 +71,8 @@ const quotes = [
     "Not angry, just hungry",
     "You have to understand reality, even if you don't like it. Especially if you don't like her",
     "I am capacious, I contain millions",
-    "Shame ends where humman is ready to meet humman in truth..."
+    "Shame ends where humman is ready to meet humman in truth...",
+    "Do NOT spend most of your life worrying about things that will never happen"
 ];
 
 function randomQuote() {
