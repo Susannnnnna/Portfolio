@@ -72,7 +72,8 @@ const quotes = [
     "You have to understand reality, even if you don't like it. Especially if you don't like her",
     "I am capacious, I contain millions",
     "Shame ends where humman is ready to meet humman in truth...",
-    "Do NOT spend most of your life worrying about things that will never happen"
+    "Do NOT spend most of your life worrying about things that will never happen",
+    "The idea is a piece of cake, the most important thing is the execution"
 ];
 
 function randomQuote() {
