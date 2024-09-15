@@ -74,7 +74,8 @@ const quotes = [
     "Shame ends where humman is ready to meet humman in truth...",
     "Do NOT spend most of your life worrying about things that will never happen",
     "The idea is a piece of cake, the most important thing is the execution",
-    "A house that has no windows, doors and locks attracts people who do not treat it with respect"
+    "A house that has no windows, doors and locks attracts people who do not treat it with respect",
+    "If you do something for yourself, don't do it at the expense of others. If you do something for others, don't do it at the expense of yourself"
 ];
 
 function randomQuote() {
