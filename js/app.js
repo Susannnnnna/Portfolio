@@ -73,7 +73,8 @@ const quotes = [
     "I am capacious, I contain millions",
     "Shame ends where humman is ready to meet humman in truth...",
     "Do NOT spend most of your life worrying about things that will never happen",
-    "The idea is a piece of cake, the most important thing is the execution"
+    "The idea is a piece of cake, the most important thing is the execution",
+    "A house that has no windows, doors and locks attracts people who do not treat it with respect"
 ];
 
 function randomQuote() {
