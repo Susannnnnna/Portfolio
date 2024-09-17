@@ -75,7 +75,8 @@ const quotes = [
     "Do NOT spend most of your life worrying about things that will never happen",
     "The idea is a piece of cake, the most important thing is the execution",
     "A house that has no windows, doors and locks attracts people who do not treat it with respect",
-    "If you do something for yourself, don't do it at the expense of others. If you do something for others, don't do it at the expense of yourself"
+    "If you do something for yourself, don't do it at the expense of others. If you do something for others, don't do it at the expense of yourself",
+    "We have two lives. The second one begins when we realize we only have one"
 ];
 
 function randomQuote() {
