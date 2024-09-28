@@ -76,7 +76,8 @@ const quotes = [
     "The idea is a piece of cake, the most important thing is the execution",
     "A house that has no windows, doors and locks attracts people who do not treat it with respect",
     "If you do something for yourself, don't do it at the expense of others. If you do something for others, don't do it at the expense of yourself",
-    "We have two lives. The second one begins when we realize we only have one"
+    "We have two lives. The second one begins when we realize we only have one",
+    "Spend each day in such a way that you go to sleep a little smarter than you were when you woke up in the morning"
 ];
 
 function randomQuote() {
