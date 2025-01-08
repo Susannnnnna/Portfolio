@@ -80,7 +80,8 @@ const quotes = [
     "Spend each day in such a way that you go to sleep a little smarter than you were when you woke up in the morning",
     "If you don't make time to take care of yourself, you'll have to make time to be sick",
     "I am afraid if I stop I will discover I am dead",
-    "It is not a measure of health to be well adapted to a deeply sick society"
+    "It is not a measure of health to be well adapted to a deeply sick society",
+    "Those who are not confused by the situation don’t really understand what is going on"
 ];
 
 function randomQuote() {
