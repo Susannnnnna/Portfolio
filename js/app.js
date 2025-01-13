@@ -82,7 +82,7 @@ const quotes = [
     "I am afraid if I stop I will discover I am dead",
     "It is not a measure of health to be well adapted to a deeply sick society",
     "Those who are not confused by the situation don’t really understand what is going on",
-    "Fortune favors the prepared mind"
+    "Fortune will favor the adaptable mind"
 ];
 
 function randomQuote() {
