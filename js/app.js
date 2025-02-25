@@ -80,7 +80,8 @@ const quotes = [
     "It is not a measure of health to be well adapted to a deeply sick society",
     "Those who are not confused by the situation don’t really understand what is going on",
     "Fortune will favor the adaptable mind",
-    "You are your only limit"
+    "You are your only limit",
+    "Honesty in small things is not a small thing"
 ];
 
 function randomQuote() {
