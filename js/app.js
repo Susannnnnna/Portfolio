@@ -82,7 +82,8 @@ const quotes = [
     "Fortune will favor the adaptable mind",
     "You are your only limit",
     "Honesty in small things is not a small thing",
-    "Try to leave this world a little better than you found it"
+    "Try to leave this world a little better than you found it",
+    "If you think you can do it, you're right, if you think you can't do it, you're also right"
 ];
 
 function randomQuote() {
