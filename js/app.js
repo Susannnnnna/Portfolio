@@ -84,7 +84,8 @@ const quotes = [
     "Honesty in small things is not a small thing",
     "Try to leave this world a little better than you found it",
     "If you think you can do it, you're right, if you think you can't do it, you're also right",
-    "Invest in the habits, and your body will perform"
+    "Invest in the habits, and your body will perform",
+    "Change is hard, being miserable is harder"
 ];
 
 function randomQuote() {
