@@ -85,7 +85,8 @@ const quotes = [
     "Try to leave this world a little better than you found it",
     "If you think you can do it, you're right, if you think you can't do it, you're also right",
     "Invest in the habits, and your body will perform",
-    "Change is hard, being miserable is harder"
+    "Change is hard, being miserable is harder",
+    "When you go alone you go faster, when you go with someone you go futher"
 ];
 
 function randomQuote() {
