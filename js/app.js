@@ -87,7 +87,8 @@ const quotes = [
     "Invest in the habits, and your body will perform",
     "Change is hard, being miserable is harder",
     "If you want to go fast, go alone; if you want to go far, go together",
-    "If you do not know where you are going, you might end up somewhere else"
+    "If you do not know where you are going, you might end up somewhere else",
+    "You are worth as much as you are able to give to others"
 ];
 
 function randomQuote() {
