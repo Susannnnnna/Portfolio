@@ -89,7 +89,8 @@ const quotes = [
     "If you want to go fast, go alone; if you want to go far, go together",
     "If you do not know where you are going, you might end up somewhere else",
     "You are worth as much as you are able to give to others",
-    "Run after your dreams, if you don't reach them, at least you'll lose weight."
+    "Run after your dreams, if you don't reach them, at least you'll lose weight.",
+    "A goal without a plan remains just a wish"
 ];
 
 function randomQuote() {
