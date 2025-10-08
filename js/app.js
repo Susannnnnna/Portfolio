@@ -90,7 +90,8 @@ const quotes = [
     "If you do not know where you are going, you might end up somewhere else",
     "You are worth as much as you are able to give to others",
     "Run after your dreams, if you don't reach them, at least you'll lose weight.",
-    "A goal without a plan remains just a wish"
+    "A goal without a plan remains just a wish",
+    "In clutter, find simplicity. In dissonance, find harmony. In difficulty, there is opportunity."
 ];
 
 function randomQuote() {
