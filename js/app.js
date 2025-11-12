@@ -91,7 +91,8 @@ const quotes = [
     "You are worth as much as you are able to give to others",
     "Run after your dreams, if you don't reach them, at least you'll lose weight.",
     "A goal without a plan remains just a wish",
-    "In clutter, find simplicity. In dissonance, find harmony. In difficulty, there is opportunity."
+    "In clutter, find simplicity. In dissonance, find harmony. In difficulty, there is opportunity.",
+    "We should not regret anything we do, only what we did not do."
 ];
 
 function randomQuote() {
