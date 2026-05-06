@@ -97,7 +97,8 @@ const quotes = [
     "Given the choice between being right or being kind, choose kindness.",
     "The true measure of a system's architectural quality is the stability of the required workload over time. If the volume of tasks remains at a consistent, low level throughout the project’s lifecycle, it is a testament to its solid foundations. Conversely, if each subsequent release generates an ever-increasing burden, it is a clear sign of design flaws and accumulating technical debt.",
     "Make haste slowly.",
-    "Watch your thoughts, for they become words; watch your words, for they become actions; watch your actions, for they become habits; watch your habits, for they become character; watch your character, for it becomes your destiny."
+    "Watch your thoughts, for they become words; watch your words, for they become actions; watch your actions, for they become habits; watch your habits, for they become character; watch your character, for it becomes your destiny.",
+    "The fact that millions of people share the same flaws does not make those flaws virtues; the fact that they share so many false beliefs does not make those beliefs truths; and the fact that people share a form of mental pathology with millions of other people does not make them healthy."
 ];
 
 function randomQuote() {
