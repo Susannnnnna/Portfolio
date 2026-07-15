@@ -99,7 +99,8 @@ const quotes = [
     "Make haste slowly.",
     "Watch your thoughts, for they become words; watch your words, for they become actions; watch your actions, for they become habits; watch your habits, for they become character; watch your character, for it becomes your destiny.",
     "The fact that millions of people share the same flaws does not make those flaws virtues; the fact that they share so many false beliefs does not make those beliefs truths; and the fact that people share a form of mental pathology with millions of other people does not make them healthy.",
-    "happiness is a matter of decision"
+    "Happiness is a matter of decision",
+    "Don't lie to yourself and no one will lie to you"
 ];
 
 function randomQuote() {
