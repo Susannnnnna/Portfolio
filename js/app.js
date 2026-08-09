@@ -101,7 +101,8 @@ const quotes = [
     "The fact that millions of people share the same flaws does not make those flaws virtues; the fact that they share so many false beliefs does not make those beliefs truths; and the fact that people share a form of mental pathology with millions of other people does not make them healthy.",
     "Happiness is a matter of decision",
     "Don't lie to yourself and no one will lie to you",
-    "A smile is the first cosmetic"
+    "A smile is the first cosmetic",
+    "Nothing shocks people quite as much as common sense and clear rules"
 ];
 
 function randomQuote() {
