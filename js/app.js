@@ -102,7 +102,8 @@ const quotes = [
     "Happiness is a matter of decision",
     "Don't lie to yourself and no one will lie to you",
     "A smile is the first cosmetic",
-    "Nothing shocks people quite as much as common sense and clear rules"
+    "Nothing shocks people quite as much as common sense and clear rules",
+    "There's something comforting about remorse. When we blame ourselves for something, we feel that no one else has the right to blame us for the same thing."
 ];
 
 function randomQuote() {
