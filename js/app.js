@@ -107,7 +107,8 @@ const quotes = [
     "Do we live to sleep or sleep to live?",
     "Don't count the days; make the days count",
     "The hardest things to see and talk about are those that are the most obvious, most important and ubiquitous.",
-    "We have a strong and understandable tendency to cling to what we know, even when we know that is what is killing us."
+    "We have a strong and understandable tendency to cling to what we know, even when we know that is what is killing us.",
+    "Our fingerprints on the lives of others do not disappear"
 ];
 
 function randomQuote() {
