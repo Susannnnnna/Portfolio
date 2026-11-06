@@ -108,7 +108,8 @@ const quotes = [
     "Don't count the days; make the days count",
     "The hardest things to see and talk about are those that are the most obvious, most important and ubiquitous.",
     "We have a strong and understandable tendency to cling to what we know, even when we know that is what is killing us.",
-    "Our fingerprints on the lives of others do not disappear"
+    "Our fingerprints on the lives of others do not disappear",
+    "Do what you can, with what you have, where you are"
 ];
 
 function randomQuote() {
